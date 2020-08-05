@@ -6,7 +6,7 @@
 Install all the dependencies<br>
 
 
-### `create Spotify account`
+### `create spotify account`
 
 https://www.spotify.com/us/signup/<br>
 Add to util/Spotify.js
