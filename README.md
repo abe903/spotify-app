@@ -1,4 +1,10 @@
-## REACT SPOTIFY API
+## REACT + SPOTIFY API
+
+### `npm install`
+
+Install all the dependencies<br>
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
