@@ -9,7 +9,7 @@ Install all the dependencies<br>
 ### `create spotify account`
 
 https://www.spotify.com/us/signup/<br>
-Add to util/Spotify.js
+Add to const clientID in util/Spotify.js
 
 
 ### `npm start`
