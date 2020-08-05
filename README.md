@@ -1,8 +1,15 @@
 ## REACT + SPOTIFY API
 
+
 ### `npm install`
 
 Install all the dependencies<br>
+
+
+### `create Spotify account`
+
+https://www.spotify.com/us/signup/<br>
+Add to util/Spotify.js
 
 
 ### `npm start`
