@@ -1,4 +1,4 @@
-### REACT + SPOTIFY API
+#### REACT + SPOTIFY API
 
 
 #### `npm install`
